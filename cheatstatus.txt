@@ -1,1 +1,1 @@
-detectavel 
+nao detectavel 
